@@ -1,0 +1,11 @@
+a:hover {
+    text-decoration: none;
+}
+
+a.awards__certifications {
+    color:#868e96;
+}
+
+a.awards__certifications:hover {
+    text-decoration: underline;
+}
